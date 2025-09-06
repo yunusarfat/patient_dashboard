@@ -20,12 +20,13 @@ Tailwind CSS
 
 Chart.js & react-chartjs-2
 # Clone the repo
-git clone https://github.com/your-username/patient-dashboard.git
+git clone https://github.com/your-username/patient-dashboard.git <br/>
+
 # Run
-patient dashboard> cd "product dashboard"
-patient dashboard\product dashboard> cd frontend
-patient dashboard\product dashboard\frontend> 
-install:
+patient dashboard> cd "product dashboard"<br/>
+patient dashboard\product dashboard> cd frontend <br/>
+patient dashboard\product dashboard\frontend>  <br/>
+install:<br/>
 npm install
-for run:
+for run: <br/>
 npm run dev
