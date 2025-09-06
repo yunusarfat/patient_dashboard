@@ -27,6 +27,6 @@ patient dashboard> cd "product dashboard"<br/>
 patient dashboard\product dashboard> cd frontend <br/>
 patient dashboard\product dashboard\frontend>  <br/>
 install:<br/>
-npm install
+npm install <br/>
 for run: <br/>
 npm run dev
