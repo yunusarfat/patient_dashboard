@@ -1,7 +1,7 @@
 import "./App.css";
 import Navbar from "./components/Navbar";
 import { BrowserRouter, Route, Routes } from "react-router";
-import Patients from "./pages/Patients";
+import Patients from "./pages/patients";
 
 function App() {
   return (
